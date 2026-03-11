@@ -1,5 +1,3 @@
---Crie uma tabela chamada Clientes com as colunas ID, Nome, Idade e Cidade. Defina a coluna ID como a chave primária e autoincrementável.
-
 CREATE TABLE Produtos (
     ProdutoID INT PRIMARY KEY,
     NomeProduto VARCHAR(100),
